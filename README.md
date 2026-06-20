@@ -1,5 +1,5 @@
 # 🛡️ PhishNet — AI-Powered Phishing Detection & URL Scanner Tool
-![PhishNet Banner](/static/img/home.png)
+![PhishNet Banner](/static/img/Home.png)
 PhishNet is a web-based tool designed to detect and warn users about suspicious or potentially harmful URLs. It’s part of our ongoing mission to combat phishing and online scams using intelligent automation, powered by AI and Machine Learning to analyze web content, URL behavior, and detect phishing patterns more accurately.
 
 ---
@@ -26,20 +26,20 @@ PhishNet is a web-based tool designed to detect and warn users about suspicious 
 
 ### ScreenShots
 
- ![PhishNet Banner](/static/img/home-2.png) 
+ ![PhishNet Banner](/static/img/Home-2.png) 
 
 
- ![PhishNet Banner](/static/img/home-3.png)
+ ![PhishNet Banner](/static/img/Home-3.png)
 
 
- ![PhishNet Banner](/static/img/home-4.png)
+ ![PhishNet Banner](/static/img/Home-4.png)
 
- ![PhishNet Banner](/static/img/home-5.png)
+ ![PhishNet Banner](/static/img/Home-5.png)
 
 
- ![PhishNet Banner](/static/img/home-6.png)
+ ![PhishNet Banner](/static/img/Home-6.png)
 
- ![PhishNet Banner](/static/img/home-7.png)
+ ![PhishNet Banner](/static/img/Home-7.png)
 
 ## 📦 How to Run the Project Locally
 - The latest `top-1m.csv` can be downloaded from Tranco List(https://tranco-list.eu/) (this CSV is updated every month). 
