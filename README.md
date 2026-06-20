@@ -11,7 +11,7 @@ PhishNet is a web-based tool designed to detect and warn users about suspicious 
 
 ---
 ### Demo Video
-- https://youtu.be/oXZewQhu7u0
+- https://youtu.be/vc2zil-pIxw
 
 ### PPT (Google Drive)
 - https://docs.google.com/presentation/d/1bbXIMMhH1BKsZJV8bAPLOV2QD7iQrtvU/edit?usp=sharing&ouid=113191716539863542421&rtpof=true&sd=true
